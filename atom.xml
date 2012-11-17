@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[RS coding Blog]]></title>
+  <link href="http://blog.rsis.me/atom.xml" rel="self"/>
+  <link href="http://blog.rsis.me/"/>
+  <updated>2012-11-18T05:37:25+08:00</updated>
+  <id>http://blog.rsis.me/</id>
+  <author>
+    <name><![CDATA[Rui Shen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[I coming]]></title>
+    <link href="http://blog.rsis.me/i-coming.html"/>
+    <updated>2012-11-18T05:31:00+08:00</updated>
+    <id>http://blog.rsis.me/i-coming</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
