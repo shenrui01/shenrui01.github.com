@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[RS coding Blog]]></title>
-  <link href="http://blog.rsis.me/atom.xml" rel="self"/>
-  <link href="http://blog.rsis.me/"/>
-  <updated>2012-11-18T05:37:25+08:00</updated>
-  <id>http://blog.rsis.me/</id>
+  <link href="http://shenrui01.github.com/atom.xml" rel="self"/>
+  <link href="http://shenrui01.github.com/"/>
+  <updated>2012-11-18T05:39:24+08:00</updated>
+  <id>http://shenrui01.github.com/</id>
   <author>
     <name><![CDATA[Rui Shen]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[I coming]]></title>
-    <link href="http://blog.rsis.me/i-coming.html"/>
+    <link href="http://shenrui01.github.com/i-coming.html"/>
     <updated>2012-11-18T05:31:00+08:00</updated>
-    <id>http://blog.rsis.me/i-coming</id>
+    <id>http://shenrui01.github.com/i-coming</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

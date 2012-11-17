@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://blog.rsis.me/i-coming.html</loc>
+        <loc>http://shenrui01.github.com/i-coming.html</loc>
         <lastmod>2012-11-18T05:31:42+08:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.rsis.me/blog/archives/</loc>
+        <loc>http://shenrui01.github.com/blog/archives/</loc>
         <lastmod>2012-11-18T05:31:42+08:00</lastmod>
     </url>
     <url>
-        <loc>http://blog.rsis.me/</loc>
+        <loc>http://shenrui01.github.com/</loc>
         <lastmod>2012-11-18T05:31:42+08:00</lastmod>
     </url>
 </urlset>
